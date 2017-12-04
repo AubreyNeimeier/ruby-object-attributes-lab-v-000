@@ -1,6 +1,6 @@
 class Dog
 
-#setter
+#setter method can be used to change attributes too
   def name=(dog_name)
     @dog_name = dog_name
   end
