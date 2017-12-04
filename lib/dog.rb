@@ -1,8 +1,8 @@
 class Dog
 
 #setter method can be used to change attributes too
-  def name=(dog_name)
-    @name = dog_name
+  def name=(name)
+    @name = name
   end
 
 #getter because it returns information stored in an instance variable
